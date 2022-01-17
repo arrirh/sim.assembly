@@ -1,6 +1,6 @@
 # sim.assembly
 
-sim.assembly is a package for simulating phylogenetic and functional structure of ecologycal assembly on two-dimensional landscape. Developed with the support of Russian Foundation for Basc Research (grant no. 19-04-01084).
+sim.assembly is a package for simulating phylogenetic and functional structure of ecologycal assembly on two-dimensional landscape. Developed with the support of Russian Foundation for Basic Research (grant no. 19-04-01084).
 
 # Installation 
 
